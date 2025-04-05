@@ -1,0 +1,16 @@
+title: anautos works
+description: ゆうちょの記号番号を銀行ネットバンク振込用に変換するアプリ集
+theme: minima
+baseurl: ""
+url: "https://anautos.github.io"
+
+plugins:
+  - jekyll-feed
+
+include:
+  - _includes/head-custom.html
+
+minima:
+  skin: auto
+  social_links:
+    - { platform: github, user_url: "https://github.com/anautos" }
